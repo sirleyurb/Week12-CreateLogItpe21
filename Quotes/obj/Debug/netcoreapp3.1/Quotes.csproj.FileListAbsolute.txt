@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.exe
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.deps.json
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.dll
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\bin\Debug\netcoreapp3.1\Quotes.pdb
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.dll
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.pdb
+C:\Users\opilane\source\repos\logitpe21\CreateLogITpe21\Quotes\obj\Debug\netcoreapp3.1\Quotes.genruntimeconfig.cache
